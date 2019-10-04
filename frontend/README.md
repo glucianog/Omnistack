@@ -2,7 +2,7 @@
 
 Front-end da aplicação desenvolvida durante o OmniStack (semana  09) da Rocketseat.
 
-- **Front-end desenvolvido em React
+- **Front-end desenvolvido em React**
 
 
 
